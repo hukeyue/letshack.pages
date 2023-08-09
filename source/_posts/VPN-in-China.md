@@ -82,16 +82,6 @@ Android 設備上的 [sagernet]。 不需要 TAP/TUN，但需要瀏覽器/系統
 
 [Contact Me][mail2]
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2CPTXW8Z36"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-2CPTXW8Z36');
-</script>
-
 [mail]: mailto:letshack-cn@outlook.com
 [mail2]: mailto:letshack-hk@outlook.com
 [yass]: https://github.com/Chilledheart/yass/releases/download/1.3.10/yass-win-release-x86-static-1.3.10-installer.exe
