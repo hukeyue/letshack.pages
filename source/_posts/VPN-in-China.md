@@ -1,4 +1,8 @@
-# Welcome to letshack.info
+---
+title: VPN in China
+date: 2023-08-09 13:41:45
+tags:
+---
 
 ## Paid Service
 Proxy/VPN to China is now available, please contact [letshack-cn@outlook.com][mail] for more information.
@@ -74,7 +78,7 @@ Android 設備上的 [sagernet]。 不需要 TAP/TUN，但需要瀏覽器/系統
 帳戶將在電子郵件中提供。
 
 ## Alternative pay method via alipay
-<img width="484" alt="snapshot-alipay" src="1690702063695.jpg">
+![](/images/1690702063695.jpg)
 
 [Contact Me][mail2]
 
