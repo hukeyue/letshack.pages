@@ -31,6 +31,8 @@ The client is compatible with [shadowsocks-libev]'s server side and [naiveproxy'
 
 ## Chinese Translation on Preview
 
+![](/images/164651.png)
+
 ![](/images/268207882.png)
 
 In the development branch, chinese translation is added to YASS GUI Client.
