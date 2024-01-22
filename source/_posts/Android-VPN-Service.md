@@ -13,7 +13,9 @@ For the testing, Google Chrome and Google PlayStore happens to work properly.
 By design, it supports Android from Android 7.0.
 
 ## Download URL
-Enjoy! Download 64-bit APK from [this url][apk64] and 32-bit APK from [this url][apk32].
+<del>Enjoy! Download 64-bit APK from [this url][apk64] and 32-bit APK from [this url][apk32]. </del>
+
+Enjoy! Download 64-bit APK from [new url][apk64-new] and 32-bit APK from [new url][apk32-new].
 
 ![](/images/2023-12-27_11-11-59.png)
 
@@ -21,3 +23,6 @@ Enjoy! Download 64-bit APK from [this url][apk64] and 32-bit APK from [this url]
 [tun2proxy]: https://github.com/blechschmidt/tun2proxy
 [apk32]: https://github.com/Chilledheart/yass/releases/download/1.5.7/yass-android-release-arm-1.5.7.apk
 [apk64]: https://github.com/Chilledheart/yass/releases/download/1.5.7/yass-android-release-arm64-1.5.7.apk
+
+[apk32-new]: https://github.com/Chilledheart/yass/releases/download/1.5.22/yass-android-release-arm-1.5.22.apk
+[apk64-new]: https://github.com/Chilledheart/yass/releases/download/1.5.22/yass-android-release-arm64-1.5.22.apk
