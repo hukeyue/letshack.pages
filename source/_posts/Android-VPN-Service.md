@@ -24,5 +24,5 @@ Enjoy! Download 64-bit APK from [new url][apk64-new] and 32-bit APK from [new ur
 [apk32]: https://github.com/Chilledheart/yass/releases/download/1.5.7/yass-android-release-arm-1.5.7.apk
 [apk64]: https://github.com/Chilledheart/yass/releases/download/1.5.7/yass-android-release-arm64-1.5.7.apk
 
-[apk32-new]: https://github.com/Chilledheart/yass/releases/download/1.5.23/yass-android-release-arm-1.5.23.apk
-[apk64-new]: https://github.com/Chilledheart/yass/releases/download/1.5.23/yass-android-release-arm64-1.5.23.apk
+[apk32-new]: https://github.com/Chilledheart/yass/releases/download/1.5.24/yass-android-release-arm-1.5.24.apk
+[apk64-new]: https://github.com/Chilledheart/yass/releases/download/1.5.24/yass-android-release-arm64-1.5.24.apk
