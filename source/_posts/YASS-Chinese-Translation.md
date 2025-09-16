@@ -8,7 +8,7 @@ tags:
 [YASS] is client-server model based and efficient forward proxy supporting http/socks4/socks4a/socks5 protocol.
 It is built based on latest chromium codebase and using the same SSL library provided by chromium, namely boringssl.
 
-In September, the latest [1.4.4 release][144release] is out for new android binaries, better installation/uninstallation experience
+In September, the latest 1.4.4 release is out for new android binaries, better installation/uninstallation experience
 in yass gui installer, better openwrt integration.
 
 You can enjoy Client Side:
@@ -40,8 +40,8 @@ For now on, you can enjoy the chinese localization in a more tearless way.
 
 ![](/images/2023-09-20_14-08-59.png)
 
-[YASS]: https://github.com/Chilledheart/yass
-[144release]: https://github.com/Chilledheart/yass/releases/tag/1.4.4
+[YASS]: https://github.com/hukeyue/yass
+[144release]: https://github.com/hukeyue/yass/releases/tag/1.4.4
 [stream]: https://shadowsocks.org/doc/stream.html
 [aead]: https://shadowsocks.org/doc/aead.html
 [shadowsocks-libev]: https://github.com/shadowsocks/shadowsocks-libev

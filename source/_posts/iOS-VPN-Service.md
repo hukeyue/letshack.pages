@@ -15,11 +15,10 @@ By design, it supports iOS from 13.0.
 And you can install this application on Apple Silicon Macs!
 
 ## Download URL
-Enjoy! Join via [TesfFlight invitation][testflight] or download IPA from [this url][ipa].
+Enjoy! Join via [TesfFlight invitation][testflight] or download IPA from this url.
 
 ![](/images/IMG_0483.PNG)
 
-[YASS]: https://github.com/Chilledheart/yass
+[YASS]: https://github.com/hukeyue/yass
 [tun2proxy]: https://github.com/blechschmidt/tun2proxy
 [testflight]: https://testflight.apple.com/join/6AkiEq09
-[ipa]: https://github.com/Chilledheart/yass/releases/download/1.5.22/yass-ios-release-arm64-1.5.22.ipa
