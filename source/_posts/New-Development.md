@@ -10,10 +10,6 @@ It is built based on latest chromium codebase and using the same SSL library pro
 
 In September, the Latest Developement has been moved to [new location][YASS].
 
-> Android and macOS builds adopt new certificate signatures.
-
-> While iOS's [TestFlight] invitation url doesn't change.
-
 You can enjoy:
 - Windows (Windows 7 or later, Windows XP SP3 binaries also provided)
 - Linux (CentOS 8 or later, Debian 8 or later, Ubuntu 14.04 or later, OpenSUSE Leap 15 or later, Fedora 37 or later)
@@ -26,15 +22,15 @@ You can enjoy:
 Deprecated Platforms:
 - OpenSolaris
 
+Exceptions:
+- Android and macOS builds adopt new certificate signatures.
+- While iOS's [TestFlight] invitation url doesn't change.
+
 ## Nuevo desarrollo
 [YASS] es un proxy de reenvío eficiente basado en un modelo cliente-servidor compatible con el protocolo http/socks4/socks4a/socks5.
 Está basado en el código base más reciente de Chromium y utiliza la misma biblioteca SSL que Chromium proporciona: boringssl.
 
 En septiembre, el último desarrollo se trasladó a [nueva ubicación][YASS].
-
-> Las versiones para Android y macOS adoptan nuevas firmas de certificado.
-
-> Sin embargo, la URL de invitación de [TestFlight] para iOS no cambia.
 
 Puedes disfrutar de:
 - Windows (Windows 7 o posterior, también se proporcionan los binarios de Windows XP SP3)
@@ -48,15 +44,15 @@ Puedes disfrutar de:
 Plataformas obsoletas:
 - OpenSolaris
 
+Excepciones:
+- Las versiones para Android y macOS adoptan nuevas firmas de certificado.
+- Sin embargo, la URL de invitación de [TestFlight] para iOS no cambia.
+
 ## Nouveau développement
 [YASS] est un proxy direct performant basé sur un modèle client-serveur et prenant en charge le protocole http/socks4/socks4a/socks5.
 Il est basé sur la dernière base de code de Chromium et utilise la même bibliothèque SSL fournie par Chromium, boringssl.
 
 En septembre, le dernier développement a été déplacé vers [nouvel emplacement][YASS].
-
-> Les versions Android et macOS adoptent de nouvelles signatures de certificat.
-
-> En revanche, l'URL d'invitation de [TestFlight] pour iOS reste inchangée.
 
 Vous pouvez utiliser :
 - Windows (Windows 7 ou version ultérieure, les binaires Windows XP SP3 sont également fournis)
@@ -70,15 +66,15 @@ Vous pouvez utiliser :
 Plateformes obsolètes :
 - OpenSolaris
 
+Exceptions:
+- Les versions Android et macOS adoptent de nouvelles signatures de certificat.
+- En revanche, l'URL d'invitation de [TestFlight] pour iOS reste inchangée.
+
 ## 新規開発
 [YASS] は、クライアントサーバーモデルに基づく効率的なフォワードプロキシで、http/socks4/socks4a/socks5 プロトコルをサポートしています。
 最新の Chromium コードベースに基づいて構築されており、Chromium が提供する SSL ライブラリ（boringssl）を使用しています。
 
 9 月に、最新の開発環境が [新しい場所][YASS] に移動されました。
-
-> Android版とmacOS版のビルドでは、新しい証明書署名が採用されます。
-
-> 一方、iOS版の[TestFlight]招待URLは変更されません。
 
 以下のOSでご利用いただけます:
 - Windows (Windows 7以降、Windows XP SP3バイナリも提供)
@@ -91,6 +87,10 @@ Plateformes obsolètes :
 
 非推奨プラットフォーム:
 - OpenSolaris
+
+例外:
+- Android版とmacOS版のビルドでは、新しい証明書署名が採用されます。
+- 一方、iOS版の[TestFlight]招待URLは変更されません。
 
 [YASS]: https://github.com/hukeyue/yass
 [TestFlight]: https://testflight.apple.com/join/6AkiEq09
