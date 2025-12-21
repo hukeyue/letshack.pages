@@ -16,11 +16,15 @@ You can enjoy:
 - macOS (Mac OS X 10.14 or later, macOS 11.0 or later, Apple Silicon supported)
 - OpenWrt (both OpenWRT X86 and X86_64 ipks are provided)
 - FreeBSD (FreeBSD 12 or later)
+- Android 7.1 or later
+- iOS 13.0 or later
 
 Deprecated Platforms:
 - OpenSolaris
-- Android 7.1 or later
-- iOS 13.0 or later
+
+Exceptions:
+- Android and macOS builds adopt new certificate signatures.
+- While iOS's [TestFlight] invitation url doesn't change.
 
 ## Nuevo desarrollo
 [YASS] es un proxy de reenvío eficiente basado en un modelo cliente-servidor compatible con el protocolo http/socks4/socks4a/socks5.
@@ -34,11 +38,15 @@ Puedes disfrutar de:
 - macOS (Mac OS X 10.14 o posterior, macOS 11.0 o posterior, compatible con Apple Silicon)
 - OpenWrt (se proporcionan los ipks OpenWRT X86 y X86_64)
 - FreeBSD (FreeBSD 12 o posterior)
+- Android 7.1 o posterior
+- iOS 13.0 o posterior
 
 Plataformas obsoletas:
 - OpenSolaris
-- Android 7.1 o posterior
-- iOS 13.0 o posterior
+
+Excepciones:
+- Las versiones para Android y macOS adoptan nuevas firmas de certificado.
+- Sin embargo, la URL de invitación de [TestFlight] para iOS no cambia.
 
 ## Nouveau développement
 [YASS] est un proxy direct performant basé sur un modèle client-serveur et prenant en charge le protocole http/socks4/socks4a/socks5.
@@ -52,11 +60,15 @@ Vous pouvez utiliser :
 - macOS (Mac OS X 10.14 ou version ultérieure, macOS 11.0 ou version ultérieure, Apple Silicon pris en charge)
 - OpenWrt (les ipks OpenWRT X86 et X86_64 sont fournis)
 - FreeBSD (FreeBSD 12 ou version ultérieure)
+- Android 7.1 ou version ultérieure
+- iOS 13.0 ou version ultérieure
 
 Plateformes obsolètes :
 - OpenSolaris
-- Android 7.1 ou version ultérieure
-- iOS 13.0 ou version ultérieure
+
+Exceptions:
+- Les versions Android et macOS adoptent de nouvelles signatures de certificat.
+- En revanche, l'URL d'invitation de [TestFlight] pour iOS reste inchangée.
 
 ## 新規開発
 [YASS] は、クライアントサーバーモデルに基づく効率的なフォワードプロキシで、http/socks4/socks4a/socks5 プロトコルをサポートしています。
@@ -70,10 +82,16 @@ Plateformes obsolètes :
 - macOS (Mac OS X 10.14以降、macOS 11.0以降、Apple Silicon対応)
 - OpenWrt (OpenWRT X86とX86_64の両方のipkを提供)
 - FreeBSD (FreeBSD 12以降)
-
-非推奨プラットフォーム:
-- OpenSolaris
 - Android 7.1以降
 - iOS 13.0以降
 
+非推奨プラットフォーム:
+- OpenSolaris
+
+例外:
+- Android版とmacOS版のビルドでは、新しい証明書署名が採用されます。
+- 一方、iOS版の[TestFlight]招待URLは変更されません。
+
 [YASS]: https://github.com/hukeyue/yass
+[TestFlight]: https://testflight.apple.com/join/6AkiEq09
+
