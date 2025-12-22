@@ -23,7 +23,7 @@ Deprecated Platforms:
 - OpenSolaris
 
 Exceptions:
-- Android and macOS builds adopt new certificate signatures.
+- [Android] and [macOS] builds adopt new certificate signatures.
 - While iOS's [TestFlight] invitation url doesn't change.
 
 ## Nuevo desarrollo
@@ -45,7 +45,7 @@ Plataformas obsoletas:
 - OpenSolaris
 
 Excepciones:
-- Las versiones para Android y macOS adoptan nuevas firmas de certificado.
+- Las versiones para [Android] y [macOS] adoptan nuevas firmas de certificado.
 - Sin embargo, la URL de invitación de [TestFlight] para iOS no cambia.
 
 ## Nouveau développement
@@ -67,7 +67,7 @@ Plateformes obsolètes :
 - OpenSolaris
 
 Exceptions:
-- Les versions Android et macOS adoptent de nouvelles signatures de certificat.
+- Les versions [Android] et [macOS] adoptent de nouvelles signatures de certificat.
 - En revanche, l'URL d'invitation de [TestFlight] pour iOS reste inchangée.
 
 ## 新規開発
@@ -89,9 +89,11 @@ Exceptions:
 - OpenSolaris
 
 例外:
-- Android版とmacOS版のビルドでは、新しい証明書署名が採用されます。
+- [Android]版と[macOS]版のビルドでは、新しい証明書署名が採用されます。
 - 一方、iOS版の[TestFlight]招待URLは変更されません。
 
 [YASS]: https://github.com/hukeyue/yass
 [TestFlight]: https://testflight.apple.com/join/6AkiEq09
+[Android]: https://github.com/hukeyue/yass/releases/download/1.20.1/yass-android-release-arm64-1.20.1.apk
+[macOS]: https://github.com/hukeyue/yass/releases/download/1.20.1/yass-macos-release-x64-1.20.1.dmg
 
