@@ -10,7 +10,7 @@ It is built based on latest chromium codebase and using the same SSL library pro
 
 In September, the Latest Developement has been moved to [new location][YASS].
 
-You can enjoy:
+[You can enjoy][prebuilds]:
 - Windows (Windows 7 or later, Windows XP SP3 binaries also provided)
 - Linux (CentOS 8 or later, Debian 8 or later, Ubuntu 14.04 or later, OpenSUSE Leap 15 or later, Fedora 37 or later)
 - macOS (Mac OS X 10.14 or later, macOS 11.0 or later, Apple Silicon supported)
@@ -32,7 +32,7 @@ Está basado en el código base más reciente de Chromium y utiliza la misma bib
 
 En septiembre, el último desarrollo se trasladó a [nueva ubicación][YASS].
 
-Puedes disfrutar de:
+[Puedes disfrutar de][prebuilds]:
 - Windows (Windows 7 o posterior, también se proporcionan los binarios de Windows XP SP3)
 - Linux (CentOS 8 o posterior, Debian 8 o posterior, Ubuntu 14.04 o posterior, OpenSUSE Leap 15 o posterior, Fedora 37 o posterior)
 - macOS (Mac OS X 10.14 o posterior, macOS 11.0 o posterior, compatible con Apple Silicon)
@@ -54,7 +54,7 @@ Il est basé sur la dernière base de code de Chromium et utilise la même bibli
 
 En septembre, le dernier développement a été déplacé vers [nouvel emplacement][YASS].
 
-Vous pouvez utiliser :
+[Vous pouvez utiliser][prebuilds]:
 - Windows (Windows 7 ou version ultérieure, les binaires Windows XP SP3 sont également fournis)
 - Linux (CentOS 8 ou version ultérieure, Debian 8 ou version ultérieure, Ubuntu 14.04 ou version ultérieure, OpenSUSE Leap 15 ou version ultérieure, Fedora 37 ou version ultérieure)
 - macOS (Mac OS X 10.14 ou version ultérieure, macOS 11.0 ou version ultérieure, Apple Silicon pris en charge)
@@ -76,7 +76,7 @@ Exceptions:
 
 9 月に、最新の開発環境が [新しい場所][YASS] に移動されました。
 
-以下のOSでご利用いただけます:
+[以下のOSでご利用いただけます][prebuilds]:
 - Windows (Windows 7以降、Windows XP SP3バイナリも提供)
 - Linux (CentOS 8以降、Debian 8以降、Ubuntu 14.04以降、OpenSUSE Leap 15以降、Fedora 37以降)
 - macOS (Mac OS X 10.14以降、macOS 11.0以降、Apple Silicon対応)
@@ -96,4 +96,5 @@ Exceptions:
 [TestFlight]: https://testflight.apple.com/join/6AkiEq09
 [Android]: https://github.com/hukeyue/yass/releases/download/1.20.1/yass-android-release-arm64-1.20.1.apk
 [macOS]: https://github.com/hukeyue/yass/releases/download/1.20.1/yass-macos-release-x64-1.20.1.dmg
+[prebuilds]: https://github.com/hukeyue/yass?tab=readme-ov-file#prebuilt-binaries-supported-legacy-platforms
 
