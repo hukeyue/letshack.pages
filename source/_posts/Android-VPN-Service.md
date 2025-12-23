@@ -19,7 +19,9 @@ By design, it supports Android from Android 7.0.
 
 Enjoy! Download 64-bit APK from [baked url][apk64-baked] and 32-bit APK from [backed url][apk32-baked].
 
-![](/images/2023-12-27_11-11-59.png)
+![](/images/android_ko.png)
+![](/images/android_cn.png)
+![](/images/android_jp.png)
 
 [YASS]: https://github.com/hukeyue/yass
 [tun2proxy]: https://github.com/blechschmidt/tun2proxy
