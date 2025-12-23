@@ -18,7 +18,7 @@ And you can install this application on Apple Silicon Macs!
 Enjoy! Join via [TesfFlight invitation][testflight] or download IPA from this url.
 
 ![](/images/IMG_0483_KO.PNG)
-![](/images/IMG_0483.PNG)
+![](/images/IMG_0483_CN.PNG)
 ![](/images/IMG_0483_JP.PNG)
 ![](/images/IMG_0483_TW.PNG)
 
