@@ -18,8 +18,8 @@ And you can install this application on Apple Silicon Macs!
 Enjoy! Join via [TesfFlight invitation][testflight] or download IPA from this url.
 
 ![](/images/IMG_0483.PNG)
-![](/images/IMG_0483_JP.PNG)
-![](/images/IMG_0483_KO.PNG)
+![](/images/IMG_0483_JP.jpg)
+![](/images/IMG_0483_KO.jpg)
 
 [YASS]: https://github.com/hukeyue/yass
 [tun2proxy]: https://github.com/blechschmidt/tun2proxy
