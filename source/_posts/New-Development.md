@@ -94,7 +94,7 @@ Exceptions:
 
 [YASS]: https://github.com/hukeyue/yass
 [TestFlight]: https://testflight.apple.com/join/6AkiEq09
-[Android]: https://github.com/hukeyue/yass/releases/download/1.20.1/yass-android-release-arm64-1.20.1.apk
-[macOS]: https://github.com/hukeyue/yass/releases/download/1.20.1/yass-macos-release-x64-1.20.1.dmg
+[Android]: https://github.com/hukeyue/yass/releases/download/1.20.2/yass-android-release-arm64-1.20.2.apk
+[macOS]: https://github.com/hukeyue/yass/releases/download/1.20.2/yass-macos-release-x64-1.20.2.dmg
 [prebuilds]: https://github.com/hukeyue/yass?tab=readme-ov-file#prebuilt-binaries-supported-legacy-platforms
 
