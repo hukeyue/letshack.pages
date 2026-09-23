@@ -14,7 +14,4 @@ Good Luck.
 
 (Signature)
 
-## Addition Section about future update
-TestFlight invitation will last until July 2026. Besides, this site will last until y2030 or so.
-
 [program]: https://github.com/hukeyue/yass/releases/tag/1.24.13
