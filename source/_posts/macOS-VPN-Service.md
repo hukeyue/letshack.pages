@@ -8,3 +8,9 @@ tags:
 https://testflight.apple.com/join/CWFPRnmT
 
 Same UI but no more emulation. Enjoy!
+
+Edited:
+
+Apple TV's TF Invitation will be opened soon
+
+https://testflight.apple.com/join/HcCE1hDv
